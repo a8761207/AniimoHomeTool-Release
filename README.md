@@ -25,3 +25,18 @@
 ## 更新
 
 有新版時到 Releases 下載新的執行檔，取代舊的即可；設定與紀錄存在使用者資料夾，不會因為換執行檔而消失。
+
+---
+
+## 支持作者
+
+喜歡這個工具的話，想支持作者，可以考慮加入 **[遊戲聯合公國 Discord](https://discord.gg/nTE6CBb)** 幫我們擴展人數。
+這是一個廣納各種遊戲的交流社區，不侷限單一遊戲，族群偏向上班族較多，不想要加入的話也不勉強。
+
+<a href="https://discord.gg/nTE6CBb"><img src="https://img.shields.io/badge/Discord-%E5%8A%A0%E5%85%A5%E9%81%8A%E6%88%B2%E8%81%AF%E5%90%88%E5%85%AC%E5%9C%8B-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="加入遊戲聯合公國 Discord" height="40"></a>
+
+<a href="https://discord.gg/nTE6CBb"><img src="images/gdg_logo.png" alt="遊戲聯合公國 Grand Duchy of Games" width="420"></a>
+
+也可以透過 Ko-fi 贊助作者，你的支持是持續更新的動力：
+
+<a href="https://ko-fi.com/xvideos8kuhd"><img src="images/kofi_button.png" alt="Support me on Ko-fi" width="320"></a>
