@@ -2,8 +2,6 @@
 
 《Aniimo》的輔助工具：家園農場總覽、設施與伊莫管理、訂單與倉庫、商店與回購、利潤試算、每日 / 每週提醒、搶蛋大作戰戰績等。
 
-> 這個儲存庫只提供**執行檔下載**，不含原始碼。
-
 ## 下載
 
 到 **[Releases（最新版）](https://github.com/a8761207/AniimoHomeTool-Release/releases/latest)** 下載 `AniimoHomeTool-v版本.exe`，直接執行即可，不用安裝。
