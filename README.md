@@ -20,6 +20,52 @@
 - 每個版本的 Release 頁面都附 VirusTotal 掃毒報告；不放心的話，可以比對下載檔案的 SHA256 跟報告上的是否相同
   （PowerShell：`Get-FileHash 檔名`）
 
+## 內容預覽
+
+### 家園
+
+![家園](images/preview/01_home.png)
+
+### 地塊
+
+![地塊](images/preview/02_plots.png)
+
+### 設施
+
+![設施](images/preview/03_facilities.png)
+
+### 伊莫
+
+![伊莫](images/preview/04_imo.png)
+
+### 訂單
+
+![訂單](images/preview/05_orders.png)
+
+### 倉庫
+
+![倉庫](images/preview/06_storage.png)
+
+### 回購屋
+
+![回購屋](images/preview/07_buyback.png)
+
+### 利潤
+
+![利潤](images/preview/08_profit.png)
+
+### 搶蛋
+
+![搶蛋](images/preview/09_heist.png)
+
+### 腳本區
+
+![腳本區](images/preview/10_script.png)
+
+### 提醒
+
+![提醒](images/preview/11_reminder.png)
+
 ---
 
 ## 支持作者
