@@ -59,13 +59,15 @@
 
 <img src="images/preview/08_profit.png" alt="利潤" width="450">
 
-### 搶蛋
-
-<img src="images/preview/09_heist.png" alt="搶蛋" width="450">
-
 ### 腳本區
 
 <img src="images/preview/10_script.png" alt="腳本區" width="450">
+
+<img src="images/preview/10_script_start.png" alt="腳本區：開始執行腳本" width="450">
+
+### 搶蛋
+
+<img src="images/preview/09_heist.png" alt="搶蛋" width="450">
 
 ### 提醒
 
