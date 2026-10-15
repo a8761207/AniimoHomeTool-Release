@@ -24,47 +24,47 @@
 
 ### 家園
 
-![家園](images/preview/01_home.png)
+<img src="images/preview/01_home.png" alt="家園" width="450">
 
 ### 地塊
 
-![地塊](images/preview/02_plots.png)
+<img src="images/preview/02_plots.png" alt="地塊" width="450">
 
 ### 設施
 
-![設施](images/preview/03_facilities.png)
+<img src="images/preview/03_facilities.png" alt="設施" width="450">
 
 ### 伊莫
 
-![伊莫](images/preview/04_imo.png)
+<img src="images/preview/04_imo.png" alt="伊莫" width="450">
 
 ### 訂單
 
-![訂單](images/preview/05_orders.png)
+<img src="images/preview/05_orders.png" alt="訂單" width="450">
 
 ### 倉庫
 
-![倉庫](images/preview/06_storage.png)
+<img src="images/preview/06_storage.png" alt="倉庫" width="450">
 
 ### 回購屋
 
-![回購屋](images/preview/07_buyback.png)
+<img src="images/preview/07_buyback.png" alt="回購屋" width="450">
 
 ### 利潤
 
-![利潤](images/preview/08_profit.png)
+<img src="images/preview/08_profit.png" alt="利潤" width="450">
 
 ### 搶蛋
 
-![搶蛋](images/preview/09_heist.png)
+<img src="images/preview/09_heist.png" alt="搶蛋" width="450">
 
 ### 腳本區
 
-![腳本區](images/preview/10_script.png)
+<img src="images/preview/10_script.png" alt="腳本區" width="450">
 
 ### 提醒
 
-![提醒](images/preview/11_reminder.png)
+<img src="images/preview/11_reminder.png" alt="提醒" width="450">
 
 ---
 
