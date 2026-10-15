@@ -61,9 +61,7 @@
 
 ### 腳本區
 
-<img src="images/preview/10_script.png" alt="腳本區" width="450">
-
-<img src="images/preview/10_script_start.png" alt="腳本區：開始執行腳本" width="450">
+<img src="images/preview/10_script_start.png" alt="腳本區" width="450">
 
 ### 搶蛋
 
